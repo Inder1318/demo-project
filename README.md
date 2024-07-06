@@ -1,4 +1,4 @@
 # demo-project
 This is my first git repository
 <br>
-Author-Inderpal Singh
+Author-Inderpal Singh walia
